@@ -4,5 +4,6 @@
 int main()
 {
   printf "welcome to github";
+  printf "member";
   
 }
